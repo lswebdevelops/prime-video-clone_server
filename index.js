@@ -27,8 +27,6 @@ app.get("/api/movies", async (req, res) => {
     }
     
 
-
-
     const data = await Movie.find(filter);
     res.json(data);
   } catch (error) {
@@ -36,7 +34,22 @@ app.get("/api/movies", async (req, res) => {
   }
 });
 
+
+// get movie page by id
+app.get("/api/movies/:_id", async (req, res) => {
+  try {
+    const idParam = req.params.id; 
+    
+
+    const data = await Movie.findOne({id: idParam});
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "An error occurred while fetching movies." });
+  }
+});
+
 // get app
+
 
 app.get("/", (req, res) => {
   res.json("Hello Videos!!");
