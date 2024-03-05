@@ -33,6 +33,9 @@ const MovieSchema = new Schema({
   link: {
     type: String
   },
+  type: {
+    type: String
+  },
 
   createdAt: {
     type: Date,

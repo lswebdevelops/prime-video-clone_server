@@ -9,7 +9,8 @@
     "year": 2010,
     "length": 148,
     "genre": ["sci-fi", "action", "thriller"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Shawshank Redemption",
@@ -21,7 +22,8 @@
     "year": 1994,
     "length": 142,
     "genre": ["drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Dark Knight",
@@ -33,7 +35,8 @@
     "year": 2008,
     "length": 152,
     "genre": ["action", "crime", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Pulp Fiction",
@@ -45,7 +48,8 @@
     "year": 1994,
     "length": 154,
     "genre": ["crime", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Forrest Gump",
@@ -57,7 +61,8 @@
     "year": 1994,
     "length": 142,
     "genre": ["drama", "romance"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Matrix",
@@ -69,7 +74,8 @@
     "year": 1999,
     "length": 136,
     "genre": ["action", "sci-fi"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Fight Club",
@@ -81,7 +87,8 @@
     "year": 1999,
     "length": 139,
     "genre": ["drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Titanic",
@@ -93,7 +100,8 @@
     "year": 1997,
     "length": 195,
     "genre": ["drama", "romance"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Avatar",
@@ -105,7 +113,8 @@
     "year": 2009,
     "length": 162,
     "genre": ["action", "adventure", "fantasy"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Jurassic Park",
@@ -117,7 +126,8 @@
     "year": 1993,
     "length": 127,
     "genre": ["adventure", "sci-fi", "thriller"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Godfather",
@@ -129,7 +139,8 @@
     "year": 1972,
     "length": 175,
     "genre": ["crime", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Inglourious Basterds",
@@ -141,7 +152,8 @@
     "year": 2009,
     "length": 153,
     "genre": ["adventure", "drama", "war"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Silence of the Lambs",
@@ -153,7 +165,8 @@
     "year": 1991,
     "length": 118,
     "genre": ["crime", "drama", "thriller"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -165,7 +178,8 @@
     "year": 2001,
     "length": 178,
     "genre": ["adventure", "drama", "fantasy"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Social Network",
@@ -177,7 +191,8 @@
     "year": 2010,
     "length": 120,
     "genre": ["biography", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Revenant",
@@ -189,7 +204,8 @@
     "year": 2015,
     "length": 156,
     "genre": ["action", "adventure", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Departed",
@@ -201,7 +217,8 @@
     "year": 2006,
     "length": 151,
     "genre": ["crime", "drama", "thriller"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Interstellar",
@@ -213,7 +230,8 @@
     "year": 2014,
     "length": 169,
     "genre": ["adventure", "drama", "sci-fi"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "The Wolf of Wall Street",
@@ -225,7 +243,8 @@
     "year": 2013,
     "length": 180,
     "genre": ["biography", "crime", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
   },
   {
     "title": "Gladiator",
@@ -237,6 +256,162 @@
     "year": 2000,
     "length": 155,
     "genre": ["action", "adventure", "drama"],
-    "link": "www.youtube.com"
+    "link": "www.youtube.com",
+    "type": "movie"
+  },     
+  {
+    "title": "Game of Thrones",
+    "description": "Noble families vie for control of the mythical land of Westeros in this epic fantasy series.",
+    "slug": "game-of-thrones",
+    "thumbnail": "game-of-thrones.jpg",
+    "network": "HBO",
+    "stars": 5,
+    "year": 2011,
+    "genre": ["action", "adventure", "fantasy"],
+    "link": "www.hbo.com",
+    "type": "series"
+  },
+  {
+    "title": "The Mandalorian",
+    "description": "A lone bounty hunter explores the outer reaches of the galaxy far from the authority of the New Republic.",
+    "slug": "the-mandalorian",
+    "thumbnail": "the-mandalorian.jpg",
+    "network": "Disney+",
+    "stars": 4,
+    "year": 2019,
+    "genre": ["action", "adventure", "sci-fi"],
+    "link": "www.disneyplus.com",
+    "type": "series"
+  },
+  {
+    "title": "Black Mirror",
+    "description": "Anthology series exploring the dark and often dystopian sides of technological advancements.",
+    "slug": "black-mirror",
+    "thumbnail": "black-mirror.jpg",
+    "network": "Netflix",
+    "stars": 4,
+    "year": 2011,
+    "genre": ["drama", "sci-fi", "thriller"],
+    "link": "www.netflix.com",
+    "type": "series"
+  },
+  {
+    "title": "The Crown",
+    "description": "Follows the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+    "slug": "the-crown",
+    "thumbnail": "the-crown.jpg",
+    "network": "Netflix",
+    "stars": 5,
+    "year": 2016,
+    "genre": ["biography", "drama", "history"],
+    "link": "www.netflix.com",
+    "type": "series"
+  },
+  {
+    "title": "Westworld",
+    "description": "In a futuristic amusement park, visitors experience the Wild West with android hosts who become self-aware.",
+    "slug": "westworld",
+    "thumbnail": "westworld.jpg",
+    "network": "HBO",
+    "stars": 4,
+    "year": 2016,
+    "genre": ["drama", "mystery", "sci-fi"],
+    "link": "www.hbo.com",
+    "type": "series"
+  },
+  {
+    "title": "Stranger Things",
+    "description": "A group of kids in a small town uncover supernatural mysteries and government conspiracies.",
+    "slug": "stranger-things",
+    "thumbnail": "stranger-things.jpg",
+    "network": "Netflix",
+    "stars": 4,
+    "year": 2016,
+    "genre": ["drama", "fantasy", "horror"],
+    "link": "www.netflix.com",
+    "type": "series"
+  },
+  {
+    "title": "The Office",
+    "description": "A mockumentary-style sitcom following the daily lives of office employees at Dunder Mifflin Paper Company.",
+    "slug": "the-office",
+    "thumbnail": "the-office.jpg",
+    "network": "NBC",
+    "stars": 5,
+    "year": 2005,
+    "genre": ["comedy"],
+    "link": "www.nbc.com",
+    "type": "series"
+  },
+  {
+    "title": "Sherlock",
+    "description": "Modern adaptation of Arthur Conan Doyle's detective stories featuring Benedict Cumberbatch as Sherlock Holmes.",
+    "slug": "sherlock",
+    "thumbnail": "sherlock.jpg",
+    "network": "BBC One",
+    "stars": 5,
+    "year": 2010,
+    "genre": ["crime", "drama", "mystery"],
+    "link": "www.bbc.co.uk",
+    "type": "series"
+  },
+  {
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher turned methamphetamine producer navigates the dangerous criminal underworld.",
+    "slug": "breaking-bad",
+    "thumbnail": "breaking-bad.jpg",
+    "network": "AMC",
+    "stars": 5,
+    "year": 2008,
+    "genre": ["crime", "drama", "thriller"],
+    "link": "www.amc.com",
+    "type": "series"
+  },
+  {
+    "title": "Friends",
+    "description": "Follows the lives of six friends living in New York City as they navigate love, career, and friendship.",
+    "slug": "friends",
+    "thumbnail": "friends.jpg",
+    "network": "NBC",
+    "stars": 5,
+    "year": 1994,
+    "genre": ["comedy", "romance"],
+    "link": "www.nbc.com",
+    "type": "series"
+  },
+  {
+    "title": "The Big Bang Theory",
+    "description": "A group of socially awkward scientists and their interactions with each other and the world.",
+    "slug": "big-bang-theory",
+    "thumbnail": "big-bang-theory.jpg",
+    "network": "CBS",
+    "stars": 4,
+    "year": 2007,
+    "genre": ["comedy", "romance"],
+    "link": "www.cbs.com",
+    "type": "series"
+  },
+  {
+      "title": "Money Heist",
+      "description": "A criminal mastermind recruits eight individuals with unique skills to carry out an ambitious plan: to rob the Royal Mint of Spain.",
+      "slug": "money-heist",
+      "thumbnail": "money-heist.jpg",
+      "network": "Netflix",
+      "stars": 4,
+      "year": 2017,
+      "genre": ["action", "crime", "mystery"],
+      "link": "www.netflix.com",
+      "type": "series"
+    },
+    { "title": "The Simpsons",
+    "description": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+    "slug": "the-simpsons",
+    "thumbnail": "the-simpsons.jpg",
+    "network": "FOX",
+    "stars": 5,
+    "year": 1989,
+    "genre": ["animation", "comedy"],
+    "link": "www.fox.com",
+    "type": "series"
   }
 ]

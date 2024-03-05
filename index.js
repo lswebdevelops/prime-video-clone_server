@@ -11,20 +11,30 @@ connectDB();
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use("/uploads", express.static("uploads"));
 
 // get movies
 
 app.get("/api/movies", async (req, res) => {
   try {
-    const data = await Movie.find({})
-    res.json(data )
-  } catch (error) 
-  {
-    res.status(500).json({ error: "An error occurred while fetching movies."})
+
+    const genre = req.query.genre;
+
+    const filter = {};
+    if(genre) {
+        filter.genre = genre;
+
+    }
     
+
+
+
+    const data = await Movie.find(filter);
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "An error occurred while fetching movies." });
   }
 });
-
 
 // get app
 
@@ -40,3 +50,5 @@ app.get("*", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on PORT ${PORT}`);
 });
+
+// 25:21 / 2:02:53 Client
