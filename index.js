@@ -38,10 +38,23 @@ app.get("/api/movies", async (req, res) => {
 // get movie page by id
 app.get("/api/movies/:_id", async (req, res) => {
   try {
-    const idParam = req.params.id; 
+    const idParam = req.params._id; 
     
 
-    const data = await Movie.findOne({id: idParam});
+    const data = await Movie.findOne({_id: idParam});
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "An error occurred while fetching movies." });
+  }
+});
+
+// get series page by id
+app.get("/api/series/:_id", async (req, res) => {
+  try {
+    const idParam = req.params._id; 
+    
+
+    const data = await Movie.findOne({_id: idParam});
     res.json(data);
   } catch (error) {
     res.status(500).json({ error: "An error occurred while fetching movies." });
