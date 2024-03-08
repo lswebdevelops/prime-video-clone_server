@@ -10,7 +10,9 @@
     "length": 148,
     "genre": ["sci-fi", "action", "thriller"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Shawshank Redemption",
@@ -23,7 +25,9 @@
     "length": 142,
     "genre": ["drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Dark Knight",
@@ -36,7 +40,9 @@
     "length": 152,
     "genre": ["action", "crime", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Pulp Fiction",
@@ -49,7 +55,9 @@
     "length": 154,
     "genre": ["crime", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Forrest Gump",
@@ -62,7 +70,9 @@
     "length": 142,
     "genre": ["drama", "romance"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Matrix",
@@ -75,7 +85,9 @@
     "length": 136,
     "genre": ["action", "sci-fi"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Fight Club",
@@ -88,7 +100,9 @@
     "length": 139,
     "genre": ["drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Titanic",
@@ -101,7 +115,9 @@
     "length": 195,
     "genre": ["drama", "romance"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Avatar",
@@ -114,7 +130,9 @@
     "length": 162,
     "genre": ["action", "adventure", "fantasy"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Jurassic Park",
@@ -127,7 +145,9 @@
     "length": 127,
     "genre": ["adventure", "sci-fi", "thriller"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Godfather",
@@ -140,7 +160,9 @@
     "length": 175,
     "genre": ["crime", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Inglourious Basterds",
@@ -153,7 +175,9 @@
     "length": 153,
     "genre": ["adventure", "drama", "war"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Silence of the Lambs",
@@ -166,7 +190,9 @@
     "length": 118,
     "genre": ["crime", "drama", "thriller"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -179,7 +205,9 @@
     "length": 178,
     "genre": ["adventure", "drama", "fantasy"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Social Network",
@@ -192,7 +220,9 @@
     "length": 120,
     "genre": ["biography", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Revenant",
@@ -205,7 +235,9 @@
     "length": 156,
     "genre": ["action", "adventure", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Departed",
@@ -218,7 +250,9 @@
     "length": 151,
     "genre": ["crime", "drama", "thriller"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Interstellar",
@@ -231,7 +265,9 @@
     "length": 169,
     "genre": ["adventure", "drama", "sci-fi"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Wolf of Wall Street",
@@ -244,7 +280,9 @@
     "length": 180,
     "genre": ["biography", "crime", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Gladiator",
@@ -257,8 +295,10 @@
     "length": 155,
     "genre": ["action", "adventure", "drama"],
     "link": "www.youtube.com",
-    "type": "movie"
-  },     
+    "type": "movie",
+    "likes": 0,
+    "favorite": "false"
+  },
   {
     "title": "Game of Thrones",
     "description": "Noble families vie for control of the mythical land of Westeros in this epic fantasy series.",
@@ -269,7 +309,9 @@
     "year": 2011,
     "genre": ["action", "adventure", "fantasy"],
     "link": "www.hbo.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Mandalorian",
@@ -281,7 +323,9 @@
     "year": 2019,
     "genre": ["action", "adventure", "sci-fi"],
     "link": "www.disneyplus.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Black Mirror",
@@ -293,7 +337,9 @@
     "year": 2011,
     "genre": ["drama", "sci-fi", "thriller"],
     "link": "www.netflix.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Crown",
@@ -305,7 +351,9 @@
     "year": 2016,
     "genre": ["biography", "drama", "history"],
     "link": "www.netflix.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Westworld",
@@ -317,7 +365,9 @@
     "year": 2016,
     "genre": ["drama", "mystery", "sci-fi"],
     "link": "www.hbo.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Stranger Things",
@@ -329,7 +379,9 @@
     "year": 2016,
     "genre": ["drama", "fantasy", "horror"],
     "link": "www.netflix.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Office",
@@ -341,7 +393,9 @@
     "year": 2005,
     "genre": ["comedy"],
     "link": "www.nbc.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Sherlock",
@@ -353,7 +407,9 @@
     "year": 2010,
     "genre": ["crime", "drama", "mystery"],
     "link": "www.bbc.co.uk",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Breaking Bad",
@@ -365,7 +421,9 @@
     "year": 2008,
     "genre": ["crime", "drama", "thriller"],
     "link": "www.amc.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "Friends",
@@ -377,7 +435,9 @@
     "year": 1994,
     "genre": ["comedy", "romance"],
     "link": "www.nbc.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
     "title": "The Big Bang Theory",
@@ -389,21 +449,26 @@
     "year": 2007,
     "genre": ["comedy", "romance"],
     "link": "www.cbs.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   },
   {
-      "title": "Money Heist",
-      "description": "A criminal mastermind recruits eight individuals with unique skills to carry out an ambitious plan: to rob the Royal Mint of Spain.",
-      "slug": "money-heist",
-      "thumbnail": "money-heist.jpg",
-      "network": "Netflix",
-      "stars": 4,
-      "year": 2017,
-      "genre": ["action", "crime", "mystery"],
-      "link": "www.netflix.com",
-      "type": "series"
-    },
-    { "title": "The Simpsons",
+    "title": "Money Heist",
+    "description": "A criminal mastermind recruits eight individuals with unique skills to carry out an ambitious plan: to rob the Royal Mint of Spain.",
+    "slug": "money-heist",
+    "thumbnail": "money-heist.jpg",
+    "network": "Netflix",
+    "stars": 4,
+    "year": 2017,
+    "genre": ["action", "crime", "mystery"],
+    "link": "www.netflix.com",
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
+  },
+  {
+    "title": "The Simpsons",
     "description": "The satiric adventures of a working-class family in the misfit city of Springfield.",
     "slug": "the-simpsons",
     "thumbnail": "the-simpsons.jpg",
@@ -412,6 +477,8 @@
     "year": 1989,
     "genre": ["animation", "comedy"],
     "link": "www.fox.com",
-    "type": "series"
+    "type": "series",
+    "likes": 0,
+    "favorite": "false"
   }
 ]

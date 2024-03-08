@@ -40,6 +40,14 @@ const MovieSchema = new Schema({
   createdAt: {
     type: Date,
     default: Date.now()
+  },
+  favorites: {
+    type: Boolean,
+
+  },
+  likes: {
+    type: Number,
+    
   }
 });
 
